@@ -1,0 +1,1 @@
+{"tag": "function", "depth": 1, "time": 1721106395.592891, "data": {"name": "connect_device", "call_args": {"uri": "Android://"}, "start_time": 1721106371.926186}}

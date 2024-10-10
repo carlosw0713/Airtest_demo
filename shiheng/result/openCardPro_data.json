@@ -1,0 +1,16 @@
+{
+    "start": 1721036745.802441,
+    "script": "openCardPro.air",
+    "tests": {
+        "BTY4C16705003852": {
+            "status": 1,
+            "device": "BTY4C16705003852",
+            "path": ""
+        },
+        "b7f0c036": {
+            "status": 1,
+            "device": "b7f0c036",
+            "path": ""
+        }
+    }
+}
